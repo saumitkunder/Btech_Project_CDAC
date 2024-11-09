@@ -19,11 +19,11 @@ This module consists of the following key files:
 
 ## 3. Methods
 
-Data Collection and Preprocessing: Using publicly available datasets, preprocess and label network traffic data.
-Feature Engineering: Extract features (e.g., packet size, connection duration, protocol type) relevant to identifying anomalies.
-Model Development:
-ML Models: Isolation Forest, One-Class SVM, K-Nearest Neighbors (KNN)
-Deep Learning Models: Autoencoders, CNNs, RNNs
-Hybrid Models: Combining anomaly-based and signature-based approaches for a robust detection system
-Model Evaluation: Assess models on accuracy, precision, recall, and F1-score.
-Alert Mechanism: Generate alerts with anomaly details when a threat is detected.
+1. **Data Collection and Preprocessing**: Using publicly available datasets, preprocess and label network traffic data.
+2. **Feature Engineering**: Extract features (e.g., packet size, connection duration, protocol type) relevant to identifying anomalies.
+3. **Model Development**:
+   - **ML Models**: Isolation Forest, One-Class SVM, K-Nearest Neighbors (KNN)
+   - **Deep Learning Models**: Autoencoders, CNNs, RNNs
+   - **Hybrid Models**: Combining anomaly-based and signature-based approaches for a robust detection system
+4. **Model Evaluation**: Assess models on accuracy, precision, recall, and F1-score.
+5. **Alert Mechanism**: Generate alerts with anomaly details when a threat is detected.
