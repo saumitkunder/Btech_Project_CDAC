@@ -1,0 +1,21 @@
+# Example configuration file
+
+model_type: "RandomForest"
+dataset_path: "../data/NSL-KDD.csv"
+output_path: "./results"
+
+random_forest:
+  n_estimators: 100
+  max_depth: 10
+  min_samples_split: 2
+  min_samples_leaf: 1
+
+svm:
+  kernel: "rbf"
+  c: 1.0
+  gamma: "scale"
+
+metrics:
+  - accuracy
+  - precision
+  - recall
