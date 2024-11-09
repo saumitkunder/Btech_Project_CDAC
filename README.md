@@ -20,9 +20,6 @@ A machine learning-based approach for real-time anomaly detection in network tra
 11. [Future Work](#future-work)
 
 ---
-
-### Introduction
-
 ### Introduction
 In today’s digital landscape, networks are the backbone of organizational infrastructure, connecting systems, services, and users. However, this interconnectivity has increased exposure to cyber threats, making network security an essential priority. **Anomaly Detection in Network Traffic** is a project that leverages machine learning to improve cybersecurity by detecting unusual patterns in real-time. Traditional security approaches, such as rule-based systems, often fail to detect novel or sophisticated attacks like Distributed Denial of Service (DDoS) attacks, malware, and unauthorized intrusions. 
 
