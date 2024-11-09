@@ -63,7 +63,7 @@ To design a model capable of detecting network anomalies that may indicate cyber
   - Jupyter Notebook (for development and analysis)
   - Git (for version control)
   - Docker (for containerization)
-  - 
+
 ---
 
 ### Methodology
