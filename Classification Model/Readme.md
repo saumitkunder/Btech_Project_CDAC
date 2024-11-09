@@ -16,3 +16,4 @@ This module consists of the following key files:
 ## 2. Architecture diagram
 
 ![Network Traffic Analysis and Anomaly Detection Architecture](https://github.com/user-attachments/assets/08d42504-b17b-47ca-a5fe-b13dfd0ae889)
+
