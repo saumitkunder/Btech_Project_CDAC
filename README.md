@@ -18,11 +18,6 @@ A machine learning-based approach for real-time anomaly detection in network tra
 9. [Project Outcome](#project-outcome)
 10. [Conclusion](#conclusion)
 11. [Future Work](#future-work)
-12. [Installation and Setup](#installation-and-setup)
-13. [Usage](#usage)
-14. [Contributing](#contributing)
-15. [License](#license)
-16. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -112,9 +107,3 @@ Future improvements could include:
 2. Integrating the system with advanced threat intelligence platforms.
 3. Exploring unsupervised learning for novel attack types and reducing dependency on labeled data.
 
----
-
-### Installation and Setup
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/Anomaly-Detection-Network-Traffic.git
