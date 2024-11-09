@@ -22,11 +22,13 @@ A machine learning-based approach for real-time anomaly detection in network tra
 ---
 
 ### Introduction
+
 The rapid digital transformation has increased network vulnerability to cyber threats, necessitating an intelligent detection system. This project leverages machine learning techniques to analyze network traffic and detect anomalies, providing early threat alerts and helping organizations mitigate security risks.
 
 ---
 
 ### Problem Statement
+
 To design a model capable of detecting network anomalies that may indicate cyber threats, with the ability to:
 - Distinguish normal from suspicious network activities
 - Provide early warnings of potential attacks in real time
@@ -35,6 +37,7 @@ To design a model capable of detecting network anomalies that may indicate cyber
 ---
 
 ### Objectives
+
 1. **Real-Time Detection**: Develop a model that can monitor network traffic and detect anomalies in real time.
 2. **Scalability and Adaptability**: Ensure the system can scale with network traffic and adapt to new types of threats.
 3. **Minimize False Positives**: Improve precision to reduce unnecessary alerts.
@@ -43,12 +46,14 @@ To design a model capable of detecting network anomalies that may indicate cyber
 ---
 
 ### Dataset
+
 - **NSL-KDD**: This dataset includes network traffic data labeled as normal or anomalous.
 - **CICIDS 2017**: A more recent dataset capturing various attack scenarios.
 
 ---
 
 ### Technology Stack
+
 - **Programming Language**: Python
 - **Libraries**: 
   - Scikit-learn (for classical ML models)
@@ -58,8 +63,7 @@ To design a model capable of detecting network anomalies that may indicate cyber
   - Jupyter Notebook (for development and analysis)
   - Git (for version control)
   - Docker (for containerization)
-  - Kafka (for real-time data streaming)
-
+  - 
 ---
 
 ### Methodology
